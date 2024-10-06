@@ -275,9 +275,9 @@ const AtualizarInformacoes = () => {
                             <option value="Outro">Outro</option>
                         </select>
                     </div>
-                    <div className='btn'>
-                        <button className="confirm-btn" onClick={atualizarFamilia}>Confirmar</button>
-                        <button className="cancel-btn" onClick={resetForm}>Cancelar</button>
+                    <div className='button-group'>
+                        <button className="button confirm-btn" onClick={atualizarFamilia}>Confirmar</button>
+                        <button className="button discard-btn" onClick={resetForm}>Cancelar</button>
                     </div>
                 </div>
             </div>
