@@ -1,0 +1,122 @@
+{
+  "familias": [
+    {
+      "nomeFamilia": "Familia Silva",
+      "statusFamilia": "Em análise",
+      "nomePrincipal": "João Silva",
+      "cpf": "68545748035",
+      "endereco": "Rua José Pancett, Recreio Campo Belo 230",
+      "cep": "14409435",
+      "rendaMensal": "2400",
+      "telefone1": "16999999999",
+      "telefone2": "16999999999",
+      "comoChegou": "Indicação do Carlos",
+      "familiarExtras": "3",
+      "dadosImovel": "Apartamento",
+      "necessidadeFamilia": "Só reforma",
+      "id": "8df2"
+    },
+    {
+      "nomeFamilia": "Familia Ponce",
+      "statusFamilia": "Aprovado",
+      "nomePrincipal": "Elisa Ponce",
+      "cpf": "89521857064",
+      "endereco": "Rua Benedito Menezes, Jardim Doutor Antônio Petráglia 321",
+      "cep": "14409071",
+      "rendaMensal": "1800",
+      "telefone1": "16999999999",
+      "telefone2": "16999999999",
+      "comoChegou": "Formulário online",
+      "familiarExtras": "3",
+      "dadosImovel": "Alugado",
+      "necessidadeFamilia": "Doação de materiais de construção",
+      "id": "078a"
+    },
+    {
+      "id": "abb6",
+      "nomeFamilia": "Familia Pauly",
+      "statusFamilia": "Negado",
+      "nomePrincipal": "Lucas Pauly",
+      "cpf": "88971365080",
+      "endereco": "Rua Pastor Joel Cardoso, Parque dos Ipês 1234",
+      "cep": "14410788",
+      "rendaMensal": "3100",
+      "telefone1": "16999999999",
+      "telefone2": "16999999999",
+      "comoChegou": "Formulário online",
+      "familiarExtras": "5+",
+      "dadosImovel": "Alugado",
+      "necessidadeFamilia": "Reforma e ampliação"
+    },
+    {
+      "id": "207e",
+      "nomeFamilia": "Familia Espelho",
+      "statusFamilia": "Em análise",
+      "nomePrincipal": "Bianca Espelho",
+      "cpf": "42777246041",
+      "endereco": "Rua Urugüai, Jardim Consolação 4321",
+      "cep": "14400060",
+      "rendaMensal": "2550",
+      "telefone1": "16999999999",
+      "telefone2": "16999999999",
+      "comoChegou": "Indicação da Laura",
+      "familiarExtras": "3",
+      "dadosImovel": "Apartamento",
+      "necessidadeFamilia": "Construção"
+    }
+  ],
+  "visitas": [
+    {
+      "nomeFamilia": "João Silva",
+      "nomeVoluntario": "Laura Oliveira",
+      "relatorio": "{Relatório}",
+      "dropdown1": "Option 2",
+      "imagem": null,
+      "id": "4d6a"
+    },
+    {
+      "nomeFamilia": "Lucas Pauly",
+      "nomeVoluntario": "João Costa",
+      "relatorio": "{Relatório}",
+      "dropdown1": "Option 3",
+      "imagem": null,
+      "id": "7aea"
+    },
+    {
+      "nomeFamilia": "Elisa Ponce",
+      "nomeVoluntario": "Lucas Henrique",
+      "relatorio": "{Relatório}",
+      "dropdown1": "Option 2",
+      "imagem": null,
+      "id": "003d"
+    },
+    {
+      "id": "3875",
+      "nomeFamilia": "Bianca Espelho",
+      "relatorio": "{Relatório}",
+      "dropdown1": "Option 3",
+      "imagem": null,
+      "nomeVoluntario": "João Costa"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "benef@email.com",
+      "password": "123456",
+      "role": "BENEFICIARIO"
+    },
+    {
+      "id": "2",
+      "email": "volun@email.com",
+      "password": "123456",
+      "role": "VOLUNTARIO"
+    },
+    {
+      "id": "3",
+      "email": "benef@gmail.com",
+      "password": "123456",
+      "role": "BENEFICIARIO"
+    }
+  ]
+}
